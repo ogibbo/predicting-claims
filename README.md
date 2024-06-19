@@ -1,0 +1,1 @@
+Quick exploration/analysis of motor insurance claim data. Some simple models trained and tested.

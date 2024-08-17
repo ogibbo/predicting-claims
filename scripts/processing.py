@@ -1,7 +1,7 @@
 import pandas as pd
 from datetime import datetime
 
-from scripts.tp_col_groups import TP_REGION_COLS, TP_INJURY_COLS, TP_TYPE_COLS
+from .tp_col_groups import TP_REGION_COLS, TP_INJURY_COLS, TP_TYPE_COLS
 
 # Confirmed processing steps
 def clean_data(data):
